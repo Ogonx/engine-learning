@@ -2,7 +2,7 @@
 
 [![CI](https://github.com/Ogonx/engine-learning/actions/workflows/ci.yml/badge.svg)](https://github.com/Ogonx/engine-learning/actions/workflows/ci.yml)
 
-A small C++ project where I'm learning engine programming. It has a tiny library (`mathlib`), a hello program that uses it, and Catch2 tests. GitHub Actions builds and tests it on Linux on every push.
+A small C++ project where I'm learning engine programming. It has a tiny library (`mathlib`), a hello program that uses it, and Catch2 tests. GitHub Actions builds and tests it on Linux on every push!
 
 ## Build
 
